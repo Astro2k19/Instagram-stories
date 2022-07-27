@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Poppins:wght@300;400;500&display=swap');
+
+body {
+    background: #1a1a1a;
+    margin: 0;
+    padding-left: 0;
+    font-family: Oswald;
+}
+
+/* Указываем box sizing */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
